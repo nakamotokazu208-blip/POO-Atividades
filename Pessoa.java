@@ -1,3 +1,5 @@
+package meuPacoteDePessoas;
+
 public class Pessoa {
 
     private String nome;
